@@ -1,7 +1,7 @@
-header {
+header, footer {
 	background-color: #06777f;
 }
-h1, nav{
+h1, nav, footer{
 	color: white;
 }
 h2{

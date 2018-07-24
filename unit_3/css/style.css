@@ -1,9 +1,12 @@
 header, footer {
 	background-color: #06777f;
 }
-h1, nav, footer{
+h1, nav, footer {
 	color: white;
 }
-h2{
+h2 {
 	font-style: italic;
+}
+section {
+	text-align: center;
 }

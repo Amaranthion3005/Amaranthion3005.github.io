@@ -10,6 +10,14 @@ body {
 	font-family: 'Georgia', serif;
 	font-size: 20px;
 	width: 480px;
+	position: relative;
+}
+p {
+	font-size: 1em;
+	width: 24em;
+}
+.vans {
+	width: 24em;
 }
 h1 {
 	font-family: 'Rambla', sans-serif;

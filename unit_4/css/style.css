@@ -16,6 +16,9 @@ p {
 	font-size: 1em;
 	width: 30em;
 }
+img {
+	width: 100%;
+}
 .vans {
 	width: 30em;
 }

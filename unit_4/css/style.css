@@ -1,0 +1,16 @@
+header, footer {
+	background-color: #06777f;
+}
+header, footer {
+	color: white;
+}
+h1 {
+	font-style: italic;
+	font-size:60px;
+}
+body {
+	background-color: #12C9FF;
+}
+div {
+	font-size: 16px;
+}

@@ -8,16 +8,16 @@ header, footer {
 body {
 	background-color: #12C9FF;
 	font-family: 'Georgia', serif;
-	font-size: 20px;
+	font-size: 16px;
 	width: 480px;
 	position: relative;
 }
 p {
 	font-size: 1em;
-	width: 24em;
+	width: 30em;
 }
 .vans {
-	width: 24em;
+	width: 30em;
 }
 h1 {
 	font-family: 'Rambla', sans-serif;

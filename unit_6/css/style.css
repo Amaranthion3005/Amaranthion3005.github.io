@@ -50,3 +50,14 @@ h3 {
     border: 1px black solid;
     padding: 20px;
 }
+#trucks {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#vans {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+}

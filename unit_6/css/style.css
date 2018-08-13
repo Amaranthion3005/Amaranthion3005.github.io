@@ -11,6 +11,8 @@ header, footer {
 	border: 1px black solid;
 	padding: 20px;
 	display: inline-block;
+	text-align: center;
+	width: 100%;
 }
 nav {
 	font-size: 2em;

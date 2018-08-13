@@ -3,16 +3,17 @@ body {
 	background-color: #12C9FF;
 	font-family: 'Georgia', serif;
 	font-size: 16px;
-	line-height: 1.5;
+	line-height: 1.5em;
 }
 header, footer {
 	background-color: #06777f;
 	color: white;
 	border: 1px black solid;
 	padding: 20px;
+	display: inline-block;
 }
 nav {
-	font-size: 1.8em;
+	font-size: 2em;
  	float: right;
 } 
 nav a {	
@@ -30,11 +31,13 @@ section {
 	background-color: #FFC675;
 	border: 1px black solid;
 	padding: 20px;
+	display: inline-block;
 }
 div {
 	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
+	display: inline-block;
 }
 img {
 	width: 100%;

@@ -54,10 +54,14 @@ h3 {
     background-color: #E582A2;
     border: 1px black solid;
     padding: 20px;
+    float: left;
+    width: 50%;
 }
 
 #vans {
     background-color: #E55B88;
     border: 1px black solid;
     padding: 20px;
+    float: left;
+    width: 50%;
 }

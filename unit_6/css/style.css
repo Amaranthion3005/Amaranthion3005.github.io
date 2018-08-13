@@ -11,6 +11,16 @@ header, footer {
 	border: 1px black solid;
 	padding: 20px;
 }
+nav {
+	font-size: 1.8em;
+ 	float: right;
+} 
+nav a {	
+	text-decoration: none;
+	color: black;
+	margin: 1.8em;
+	display: inline-block;
+}
 article {
 	background-color: #E89C6C;
 	border: 1px black solid;

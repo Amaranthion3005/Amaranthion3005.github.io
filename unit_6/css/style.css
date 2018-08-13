@@ -55,14 +55,14 @@ h3 {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 50%;
+    width: 40%;
 }
 #vans {
     background-color: #E55B88;
     border: 1px black solid;
     padding: 20px;
     float: right;
-    width: 50%;
+    width: 40%;
 }
 .clearfix:after {
     visibility: hidden;

@@ -39,9 +39,6 @@ div {
 	border: 1px black solid;
 	padding: 20px;
 }
-img {
-	width: 50%;
-}
 h1 {
 	font-family: 'Rambla', sans-serif;
 	text-align: center;
@@ -84,4 +81,10 @@ h3 {
     content: " ";
     clear: both;
     height: 0;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }

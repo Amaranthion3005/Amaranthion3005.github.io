@@ -4,6 +4,7 @@ body {
 	font-family: 'Georgia', serif;
 	font-size: 16px;
 	line-height: 1.5em;
+	align-content: center;
 }
 header, footer {
 	background-color: #06777f;
@@ -52,10 +53,6 @@ h3 {
 	font-family: 'Rambla', sans-serif;
 	text-align: center;
 	font-size:30px;	
-}
-#vehicles {
-    border: 1px black solid;
-    padding: 20px;
 }
 #trucks {
     border: 1px black solid;

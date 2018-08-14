@@ -29,13 +29,11 @@ article {
 	padding: 20px;
 }
 section {
-	background-color: #FFC675;
 	border: 1px black solid;
 	padding: 20px;
 	display: inline-block;
 }
 div {
-	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -56,19 +54,16 @@ h3 {
 	font-size:30px;	
 }
 #vehicles {
-    background-color: #FFB7CF;
     border: 1px black solid;
     padding: 20px;
 }
 #trucks {
-    background-color: #E582A2;
     border: 1px black solid;
     padding: 20px;
     float: left;
     width: 40%;
 }
 #vans {
-    background-color: #E55B88;
     border: 1px black solid;
     padding: 20px;
     float: right;

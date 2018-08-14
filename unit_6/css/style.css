@@ -24,7 +24,7 @@ nav a {
 	display: inline-block;
 }
 article {
-	background-color: #E89C6C;
+	background-image: url("movingtruck.jpg");
 	border: 1px black solid;
 	padding: 20px;
 }

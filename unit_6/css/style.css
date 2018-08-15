@@ -19,6 +19,7 @@ header img {
 }
 nav {
 	font-size: 2em;
+	margin-top: 7em;
  	float: right;
 } 
 nav a {	
@@ -26,10 +27,6 @@ nav a {
 	color: white;
 	padding: 1.8em;
 	display: inline-block;
-}
-article {
-	background-image: url("movingtruck.jpg");
-	padding: 20px;
 }
 section {
 	padding: 5em 0;

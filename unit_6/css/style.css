@@ -28,7 +28,7 @@ nav a {
 	display: inline-block;
 }
 section {
-	padding: 5em 0;
+	padding: 5em;
 }
 div {
 	padding: 2em;
@@ -53,6 +53,7 @@ h3 {
 }
 #vehicles {
     background: #fff;
+    width: 50%;
     float: left;
 }
 #locations {

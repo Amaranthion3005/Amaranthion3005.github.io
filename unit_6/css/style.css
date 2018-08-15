@@ -9,7 +9,6 @@ body {
 header, footer {
 	background-color: #06777f;
 	color: white;
-	border: 1px black solid;
 	padding: 20px;
 	display: inline-block;
 	text-align: center;

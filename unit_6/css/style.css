@@ -54,11 +54,13 @@ h3 {
 	width: 50%;
 }
 #vehicles {
+	margin: 0;
+	padding: 0;
     background: #fff;
     float: left;
 }
 #locations {
-	background: #fefef6;
+	background: #fff;
 	width: 50%;
 	margin: auto;
 }

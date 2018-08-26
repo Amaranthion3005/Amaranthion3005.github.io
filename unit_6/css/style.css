@@ -9,15 +9,16 @@ body {
 header, footer {
 	background-color: #06777f;
 	color: white;
-	padding: 20px;
+	margin: 0;
+	padding: 0;
 	display: inline-block;
 	text-align: center;
 }
 header img {
-	width: 10em;
+	width: 10%;
 }
 nav {
-	font-size: 2em;
+	font-size: 1em;
 	margin-top: 7em;
  	float: right;
 } 

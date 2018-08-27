@@ -43,18 +43,18 @@ div {
 h1 {
 	font-family: 'Rambla', sans-serif;
 	text-align: center;
-	font-size:60px;
+	font-size: 3.75em;
 }
 h2 {
 	font-family: 'Rambla', sans-serif;
 	text-align: center;
-	font-size:50px;	
-	line-height: 75px;
+	font-size: 3.1em;	
+	line-height: 467em;
 }
 h3 {
 	font-family: 'Rambla', sans-serif;
 	text-align: center;
-	font-size:30px;	
+	font-size: 1.9em;	
 }
 .example {
 	width: 50%;
@@ -86,5 +86,8 @@ h3 {
     float: left;
 }
 @media only screen and (min-width: 1080px) {
+	div {
+		width: 45%;
+	}
 
 }

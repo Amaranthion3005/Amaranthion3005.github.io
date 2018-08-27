@@ -137,3 +137,9 @@ h3 {
 		width: 88%
 	}
 }
+@media only screen and (max-width: 514px) {
+	#locations {
+		width: 80%;
+		margin: 1.5em;
+	}
+}

@@ -33,6 +33,7 @@ nav a {
 }
 section {
 	padding: 5em;
+	margin: auto;
 }
 div {
 	width: 50%;
@@ -64,10 +65,10 @@ h3 {
     background: #fff;
     float: left;
 }
+#
 #locations {
 	background: #fff;
 	width: 50%;
-	margin: auto;
 }
 .clearfix:after {
     visibility: hidden;

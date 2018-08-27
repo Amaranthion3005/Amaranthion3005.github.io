@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Rambla:700');
+body {
+	background-color: #12C9FF;
+	font-family: 'Georgia', serif;
+	font-size: 16px;
+	line-height: 1.5em;
+	align-content: center;
+}
+header, footer {
+	background-color: #06777f;
+	color: white;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+}
+header img {
+	width: 20%;
+}
+nav {
+	font-size: 1em;
+	margin-top: 7em;
+ 	float: right;
+} 
+nav a {	
+	text-decoration: none;
+	color: white;
+	padding: 1.8em;
+	display: inline-block;
+}
+section {
+	padding: 5em;
+}
+div {
+	width: 50%;
+	float: left;
+}
+h1 {
+	font-family: 'Rambla', sans-serif;
+	text-align: center;
+	font-size:60px;
+}
+h2 {
+	font-family: 'Rambla', sans-serif;
+	text-align: center;
+	font-size:50px;	
+	line-height: 75px;
+}
+h3 {
+	font-family: 'Rambla', sans-serif;
+	text-align: center;
+	font-size:30px;	
+}
+#example {
+	width: 33%;
+	margin: 0;
+	padding: 0;
+}
+#vehicles {
+	margin: 0;
+	padding: 0;
+    background: #fff;
+    float: left;
+}
+#locations {
+	background: #fff;
+	width: 50%;
+	margin: auto;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: 1em;
+    width: 50%;
+    float: left;
+}

@@ -48,7 +48,7 @@ h2 {
 	font-family: 'Rambla', sans-serif;
 	text-align: center;
 	font-size: 3.1em;	
-	line-height: 3.1em;
+	line-height: 1.9em;
 }
 h3 {
 	font-family: 'Rambla', sans-serif;
@@ -103,9 +103,18 @@ h3 {
 }	
 @media only screen and (max-width: 800px) {
 	div {
-		width: 60%;
+		width: 80%;
 	}
 	nav {
 		font-size: 1.5em;
+	}
+	h2 {
+		font-size: 1.9em;
+	}
+	.example {
+		font-size: 1.5em
+		width: 66%;
+		margin: 0;
+		padding: 0;
 	}
 }

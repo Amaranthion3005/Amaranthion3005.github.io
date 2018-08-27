@@ -69,6 +69,7 @@ h3 {
 #locations {
 	background: #fff;
 	width: 50%;
+	margin: auto;
 }
 .clearfix:after {
     visibility: hidden;
@@ -89,5 +90,4 @@ h3 {
 	div {
 		width: 45%;
 	}
-
 }

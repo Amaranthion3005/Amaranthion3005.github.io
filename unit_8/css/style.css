@@ -91,3 +91,13 @@ h3 {
 		width: 28%;
 	}
 }
+@media only screen and (max-width: 984px) {
+	nav {
+		margin-top: 1em;
+	}
+	header img {
+		width: 33%;
+		margin: 0;
+		padding: 0;
+	}
+}	

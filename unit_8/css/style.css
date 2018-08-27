@@ -52,10 +52,9 @@ h3 {
 	text-align: center;
 	font-size:30px;	
 }
-#example {
-	width: 33%;
-	margin: 0;
-	padding: 0;
+.example {
+	width: 50%;
+	margin: auto;
 }
 #vehicles {
 	margin: 0;

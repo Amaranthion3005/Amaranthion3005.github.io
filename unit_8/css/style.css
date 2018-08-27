@@ -101,3 +101,11 @@ h3 {
 		padding: 0;
 	}
 }	
+@media only screen and (max-width: 800px) {
+	div {
+		width: 60%;
+	}
+	nav {
+		font-size: 1.5em;
+	}
+}

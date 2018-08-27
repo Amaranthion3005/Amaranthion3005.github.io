@@ -85,7 +85,7 @@ h3 {
     width: 50%;
     float: left;
 }
-@media only screen and (min-width: 1080px) {
+@media only screen and (max-width: 1080px) {
 	div {
 		width: 45%;
 	}

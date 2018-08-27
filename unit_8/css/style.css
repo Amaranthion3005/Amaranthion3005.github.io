@@ -125,3 +125,14 @@ h3 {
 		padding: 0
 	}
 }
+@media only screen and (max-width: 648px) {
+	h1 {
+		line-height: 1.9em;
+	}
+	nav {
+		font-size: 1em;
+	}
+	.example {
+		width: 88%
+	}
+}

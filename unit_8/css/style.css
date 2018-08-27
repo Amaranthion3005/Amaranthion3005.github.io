@@ -48,7 +48,7 @@ h2 {
 	font-family: 'Rambla', sans-serif;
 	text-align: center;
 	font-size: 3.1em;	
-	line-height: 4.67em;
+	line-height: 75px;
 }
 h3 {
 	font-family: 'Rambla', sans-serif;
@@ -59,7 +59,7 @@ h3 {
 	width: 50%;
 	margin: 0;
 	padding: 0;
-	align-content: center;
+	text-align: center
 }
 #vehicles {
 	margin: 0;

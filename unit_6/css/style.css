@@ -13,9 +13,10 @@ header, footer {
 	padding: 0;
 	display: inline-block;
 	text-align: center;
+	width: 100%;
 }
 header img {
-	width: 10%;
+	width: 20%;
 }
 nav {
 	font-size: 1em;
@@ -52,7 +53,9 @@ h3 {
 	font-size:30px;	
 }
 #example {
-	width: 50%;
+	width: 33%;
+	margin: 0;
+	padding: 0;
 }
 #vehicles {
 	margin: 0;

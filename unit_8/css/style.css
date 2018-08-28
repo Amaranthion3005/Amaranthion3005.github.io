@@ -23,6 +23,7 @@ nav {
 	font-size: 1em;
 	margin-top: 3em;
  	float: right;
+ 	text-align: left;
 } 
 nav a {	
 	text-decoration: none;
@@ -37,6 +38,7 @@ section {
 div {
 	width: 50%;
 	float: left;
+	text-align: left;
 }
 h1 {
 	font-family: 'Rambla', sans-serif;
@@ -70,6 +72,7 @@ h3 {
 	background: #fff;
 	width: 50%;
 	margin: auto;
+	text-align: left;
 }
 .clearfix:after {
     visibility: hidden;

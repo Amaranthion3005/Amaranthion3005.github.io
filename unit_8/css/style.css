@@ -94,7 +94,7 @@ h3 {
     width: 50%;
     float: left;
 }
-@media only screen and (max-width: 984px) {
+@media only screen and (max-width: 1325px) {
 	nav {
 		margin-top: 1em;
 	}

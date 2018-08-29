@@ -97,6 +97,7 @@ h3 {
 @media only screen and (max-width: 1325px) {
 	nav {
 		margin-top: 1em;
+		font-size: 1.8em;
 	}
 	header img {
 		width: 33%;

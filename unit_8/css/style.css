@@ -11,14 +11,13 @@ header, footer {
 	margin: 0;
 	padding: 0;
 	display: inline-block;
-	text-align: center;
+	text-align: left;
 	width: 100%;
 }
 header img {
 	width: 20%;
 	margin: 0;
 	padding: 0;
-	align-self: left
 }
 nav {
 	font-size: 1em;
@@ -31,6 +30,9 @@ nav a {
 	color: white;
 	padding: 1em;
 	display: inline-block;
+}
+form {
+	text-align: center;
 }
 section {
 	padding: 5em;

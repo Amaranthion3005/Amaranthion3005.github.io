@@ -113,7 +113,7 @@ h3 {
 }
 @media only screen and (max-width: 915px) {
 	header img {
-		width: 66%;
+		width: 100%;
 	}
 	nav {
 		font-size: 1.5em;
@@ -129,8 +129,8 @@ h3 {
 		width: 100%;
 	}
 }
-@media only screen and (max-width: 733px) {
-	nav a {
+@media only screen and (max-width: 734px) {
+	nav {
 		vertical-align: baseline;
 	}
 }

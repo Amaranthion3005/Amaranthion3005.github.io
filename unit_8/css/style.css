@@ -112,6 +112,9 @@ h3 {
 	}
 }
 @media only screen and (max-width: 915px) {
+	header img {
+		margin: 0;
+	}
 	div {
 		width: 100%;
 	}

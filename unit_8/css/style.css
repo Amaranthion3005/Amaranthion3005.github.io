@@ -115,6 +115,12 @@ h3 {
 	header img {
 		margin: 0;
 	}
+	.example {
+		font-size: 1.5em
+		width: 66%;
+		margin: 0;
+		padding: 0;
+	}
 	div {
 		width: 100%;
 	}
@@ -126,12 +132,7 @@ h3 {
 	h2 {
 		font-size: 1.9em;
 	}
-	.example {
-		font-size: 1.5em
-		width: 66%;
-		margin: 0;
-		padding: 0;
-	}
+	
 }
 @media only screen and (max-width: 718px) {
 	header img {

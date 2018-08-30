@@ -130,22 +130,22 @@ h3 {
 	}
 }
 @media only screen and (max-width: 734px) {
-	nav {
-		vertical-align: baseline;
+	nav a {
+		vertical-align: text-top;
 	}
 }
 @media only screen and (max-width: 663px) {
 	#locations {
-		width: 100%;
+		width: 88%;
 	}
-	#intro, ul {
+	#intro {
 		visibility: hidden;
 		margin: 0;
 		padding: 0;
 		height: 0%;
 	}
 	.example {
-		font-size: 3em
+		font-size: 4em
 		width: 100%;
 	}
 }

@@ -127,13 +127,6 @@ h3 {
 		width: 100%;
 	}
 }
-@media only screen and (max-width: 718px) {
-	header img {
-		width: 50%;
-		margin: 0;
-		padding: 0
-	}
-}
 @media only screen and (max-width: 648px) {
 	h1 {
 		line-height: 1.9em;

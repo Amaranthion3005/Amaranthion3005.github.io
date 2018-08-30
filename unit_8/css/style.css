@@ -114,6 +114,10 @@ h3 {
 @media only screen and (max-width: 915px) {
 	header img {
 		margin: 0;
+		width: 50%;
+	}
+	nav {
+		font-size: 1.5em;
 	}
 	.example {
 		font-size: 1.5em
@@ -124,15 +128,6 @@ h3 {
 	div {
 		width: 100%;
 	}
-}
-@media only screen and (max-width: 800px) {
-	nav {
-		font-size: 1.5em;
-	}
-	h2 {
-		font-size: 1.9em;
-	}
-	
 }
 @media only screen and (max-width: 718px) {
 	header img {

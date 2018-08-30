@@ -137,7 +137,7 @@ h3 {
 	#locations {
 		width: 88%;
 	}
-	#intro, ul {
+	#intro, ul, li {
 		visibility: hidden;
 		margin: 0;
 		padding: 0;
@@ -157,5 +157,13 @@ h3 {
 	}
 	p {
 		font-size: : 1.2em;
+	}
+}
+@media only screen and (max-width: 471px) {
+	.example {
+		visibility: hidden;
+		margin: 0;
+		padding: 0;
+		height: 0%;
 	}
 }

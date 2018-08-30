@@ -134,7 +134,7 @@ h3 {
 		vertical-align: baseline;
 	}
 }
-@media only screen and (max-width: 514px) {
+@media only screen and (max-width: 663px) {
 	#locations {
 		width: 100%;
 	}

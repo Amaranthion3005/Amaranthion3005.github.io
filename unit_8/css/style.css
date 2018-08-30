@@ -138,7 +138,7 @@ h3 {
 	#locations {
 		width: 88%;
 	}
-	#intro {
+	#intro, ul {
 		visibility: hidden;
 		margin: 0;
 		padding: 0;
@@ -147,5 +147,13 @@ h3 {
 	.example {
 		font-size: 4em
 		width: 100%;
+	}
+	div {
+		font-size: 4em;
+	}
+}
+@media only screen and (max-width: 541px) {
+	#vehicles {
+		float: none;
 	}
 }

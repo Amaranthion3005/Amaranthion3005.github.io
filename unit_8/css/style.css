@@ -156,4 +156,7 @@ h3 {
 	#vehicles {
 		float: none;
 	}
+	p {
+		font-family: 4em;
+	}
 }

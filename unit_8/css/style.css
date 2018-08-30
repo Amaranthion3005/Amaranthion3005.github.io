@@ -129,16 +129,9 @@ h3 {
 		width: 100%;
 	}
 }
-@media only screen and (max-width: 648px) {
-	h1 {
-		line-height: 1.9em;
-	}
-	nav {
-		font-size: 1em;
-		margin-top: 1.5em;
-	}
-	.example {
-		width: 88%
+@media only screen and (max-width: 733px) {
+	nav a {
+		vertical-align: baseline;
 	}
 }
 @media only screen and (max-width: 514px) {

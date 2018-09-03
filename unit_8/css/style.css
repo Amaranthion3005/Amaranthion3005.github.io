@@ -128,11 +128,6 @@ h3 {
 		width: 100%;
 	}
 }
-@media only screen and (max-width: 734px) {
-	nav a {
-		vertical-align: text-top;
-	}
-}
 @media only screen and (max-width: 663px) {
 	#locations {
 		width: 88%;
@@ -159,5 +154,8 @@ h3 {
 @media only screen and (max-width: 471px) {
 	.example {
 		display: none;
+	}
+	h3 {
+		line-height: 2em;
 	}
 }
